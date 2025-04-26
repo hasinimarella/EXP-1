@@ -30,6 +30,9 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
+![alt text](<Screenshot 2025-04-18 212851.png>)
+![alt text](<Screenshot 2025-04-18 213130.png>)
+![alt text](<Screenshot 2025-04-18 213216.png>)
 ```
 ● When the university issues a certificate, it gets stored as a hash.
 ● A student or employer can verify the certificate by entering the details.
@@ -40,4 +43,4 @@ High-Level Overview:
 ● Shows how blockchain can be used in education and credential verification.
 ```
 # Result:
-
+Thus ,the execution of decentrlizedCertificate verification has successfully executed.
